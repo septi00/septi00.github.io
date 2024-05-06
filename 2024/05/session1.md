@@ -7,7 +7,7 @@ During our first group meeting, we introduced ourselves so that everyone could u
 After examining some popular robot characters such as WALL-E, R2-D2, Baymax, Claptrap or the Personality Cores from the Portal game series (Portal ones being my favourite, links at the bottom if you wish to check them out) we tried to understand why these robots are so liked by the people. The conclusion we have arrived to is that despite some of them no being able to talk like R2-D2 and WALL-E, they all have well-developed "personalities" and show artificial emotions, which is a key reason for their appeal.
 
 <div style="text-align: center;">
-<img src="images/core.png" alt="A descriptive image" style= "max-width: 70%">
+<img src="images/core.png" alt="A descriptive image" style= "max-width: 100%">
 <img src="images/wall-e.png" alt="A descriptive image" style= "max-width: 30%">
 <img src="images/calptrap.png" alt="A descriptive image" style= "max-width: 25%">
 </div>
