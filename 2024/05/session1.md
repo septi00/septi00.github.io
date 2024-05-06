@@ -4,7 +4,9 @@
 
 ## 🧑‍🧑‍🧒‍🧒 Group Work
 
-During our first group interaction we made a short introduction about each of us so we know our backgrounds and 
+During our first group interaction we made a short introduction about each of us so we know our backgrounds.
+
+Then knowing that one of the focus points of this project
 
 
 ## ❓Reflective Questions
