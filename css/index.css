@@ -1,0 +1,23 @@
+body {
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 6em;
+	padding-right: 6em;
+}
+
+h1 {
+	text-align: center;
+	font-size: 4rem;
+	margin-top: 120px;
+	margin: 0;
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+
+.posts ul {
+	font-size: 1.5rem;
+	padding-left: 0;
+}
