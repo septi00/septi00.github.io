@@ -29,9 +29,19 @@ While doing so we put together the following mind map:
 
 ## ❓Reflective Questions
 
-**1. In Social Robots from a human perspective22) an overview of the state of the art in Social Robotics is given, organized in topics of human perception and expectation (Part I), Interaction (Part II) and application domains (Part III). Read (a.o.) chapter 8. Which pointers does this chapter give in/to a design research approach?**
+**1. Which pointers does this chapter give in/to a design research approach?**
 
-This was the most boring class ever fuck my life into pieces
 
-2. Second item
+**2. What general statements can be made regarding embodiment vs digital content. Apparently users are very capable of maintaining (and living and being assisted by) a boxy thing with a screen. Do we need actuators? Which part of embodiment turns a smartphone into a social robot?**
+
+**3. Now restate your answer on the previous question after watching the movie 'her'. (the trailer is already a good hint if you didn't know the movie) Does this change your perspective?**
+
+**4. If you now compare the work (vincent2015) with the overview by Bar-Cohen et.al.(with a more gripping title) The coming robot revolution23) which differences in focus can you point out? This work is a decade old. Where did the real world deviate from the predicted revolution?**
+
+**5. Read about the robot hotel - and compare their practice against for example the heavily automated CitizenM hotel. Where did the robot hotel went wrong?**
+
+**6. Consider the story of the Nabaztag rabbit. The 'internet made social' in 2009. A physical embodiment as user interface for the internet of things. How does this fit definitions of social robot technology? Where does it deviate? No, why was it not successful?**
+
+**7. Check out the work on cuddlebits paper - what are key insights in the role and application of design research in this project?**
+
 
