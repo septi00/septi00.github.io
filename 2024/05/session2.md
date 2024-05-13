@@ -55,3 +55,6 @@ This is why in the examples below the phone is bicycle and the bicycle is "orifl
 * Diversity in regard to the type of card: most cards are realistic ones in the example above but more could be 
   added like sci-fi or historical ones.
 * This could be also easily digitized
+
+### Scenarios Created With the Tool
+
