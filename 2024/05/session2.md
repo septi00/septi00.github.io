@@ -58,3 +58,28 @@ This is why in the examples below the phone is bicycle and the bicycle is "orifl
 
 ### Scenarios Created With the Tool
 
+#### Dark Scenario
+
+Picked Cards:
+
+<div>
+  <img src="images_s2/scenario_lady_couch_laptop.png" style= "max-width: 20%">
+  <img src="images_s2/object_laptop.png" style= "max-width: 20%">
+  <img src="images_s2/object_cactus.png" style= "max-width: 18%">
+  <img src="images_s2/object_camera.png" style= "max-width: 18%">
+</div>
+
+The AI assistant robot checks with the camera periodically on the user that is on the living room couch to keep it addicted to the laptop and guiding the humans habits in such way that the laptop addiction influences their habits so much that they neglect other parts of their life such as the cactus that dries off and dies.
+
+#### Good Scenario
+
+Picked Cards:
+
+<div>
+  <img src="images_s2/scenario_specialneeds.png" style= "max-width: 20%">
+  <img src="images_s2/object_glasses.png" style= "max-width: 20%">
+  <img src="images_s2/object_book2.png" style= "max-width: 20%">
+  <img src="images_s2/object_phone.png" style= "max-width: 20%">
+</div>
+
+In this situation there is a caretaker for an elderly person. The assistant robot reminds of the lady that by projecting an image of a pair of glasses on the wall next to her and plays a sound reminding her that the at this time usually the elderly person reads it's prayers and needs their glasses. When the caretaker gets the glasses to the elderly prayers the robots microphone picks up a notification sound and suggests to both of the humans to st the phone on mute for the prayer period.
