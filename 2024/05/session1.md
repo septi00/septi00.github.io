@@ -15,9 +15,9 @@ no being able to talk like R2-D2 and WALL-E, they all have well-developed "perso
 which is a key reason for their appeal.
 
 <div style="text-align: center;">
-<img src="images/core.png" alt="A descriptive image" style= "max-width: 100%">
-<img src="images/wall-e.png" alt="A descriptive image" style= "max-width: 30%">
-<img src="images/calptrap.png" alt="A descriptive image" style= "max-width: 25%">
+<img src="images_s1/core.png" alt="A descriptive image" style= "max-width: 100%">
+<img src="images_s1/wall-e.png" alt="A descriptive image" style= "max-width: 30%">
+<img src="images_s1/calptrap.png" alt="A descriptive image" style= "max-width: 25%">
 </div>
 
 Based on this conclusion we tried to find some real-life robots that show similar traits. We found some, either in
@@ -25,8 +25,8 @@ development like Samsung's Ballie (I'm wondering where that name came from), or 
 Vector.
 
 <div style="text-align: center;">
-<img src="images/ballie.png" alt="A descriptive image" style= "max-width: 45%">
-<img src="images/vector.png" alt="A descriptive image" style= "max-width: 43.6%">
+<img src="images_s1/ballie.png" alt="A descriptive image" style= "max-width: 45%">
+<img src="images_s1/vector.png" alt="A descriptive image" style= "max-width: 43.6%">
 </div>
 
 Drawing inspiration from these robot characters, we then define the traits and capabilities we wished our robot would
@@ -36,7 +36,7 @@ personality that would allow the robot to emotionally connect with the user
 While doing so we put together the following mind map:
 
 <div style="text-align: center;">
-<img src="images/srd_mindmap.jpg" alt="A descriptive image" style= "max-width: 70%">
+<img src="images_s1/srd_mindmap.jpg" alt="A descriptive image" style= "max-width: 70%">
 </div>
 
 ## ❓Reflective Questions
