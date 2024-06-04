@@ -1,0 +1,45 @@
+html {
+	font: 1.25em/1.5 "Helvetica Neue", sans-serif;
+}
+
+body {
+	margin-left: 10em;
+	margin-right: 10em;
+	padding-top:
+
+}
+
+h1 {
+	text-align: left;
+	font-size: 1.7rem;
+}
+
+h2 {
+	font-size: 1.4rem;
+	border-bottom: 3px black;
+}
+
+p {
+	font-size: 0.9rem;
+}
+
+.links ul {
+	padding-left: 0;
+	list-style-type: none;
+}
+
+.links a {
+	font-size: 1.3rem;
+	color: black;
+	text-decoration:none;
+	transition: color 0.2s ease-in-out;
+	
+	&:hover{
+		color: blueviolet;
+	}
+	
+}
+
+.note {
+	color: gray;
+}
